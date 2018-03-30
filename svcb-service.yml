@@ -1,7 +1,7 @@
 server:
   port: 8070
   
-msg: HelloHI
+msg: HelloHITest
 
 management:
   security:
