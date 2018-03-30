@@ -29,6 +29,7 @@ zuul:
       sensitiveHeaders:
     svcb-service:
       path: /svcb/**
+      serviceId: svcb-service
       sensitiveHeaders:
     hi-service:
       path: /hi/**
