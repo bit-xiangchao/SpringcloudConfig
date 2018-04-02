@@ -1,7 +1,7 @@
 server:
   port: 8070
   
-msg: HelloHITest
+msg: HelloHiTest_ttt
 
 management:
   security:
